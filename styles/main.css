@@ -81,6 +81,10 @@ h1 {
 	text-align: center;
 }
 
+.polaroid img {
+	width: inherit;
+}
+
 #info ul{
 	list-style-type: none;
 }
