@@ -94,10 +94,15 @@ h1 {
 #footer {
 	bottom: 0;
 	width: 99%;
-	height: 20px;
+	height: 32px;
 }
 
 #footer p {
 	color: gray;
 	text-align: center;
+}
+
+#footer img {
+	width: 32px;
+	padding-right: 5px;
 }
