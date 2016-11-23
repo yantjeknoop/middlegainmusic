@@ -3,6 +3,17 @@ body {
 	background-color: #2c3e50;
 }
 
+#bg img {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  z-index: -1;
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+
 #container {
 	width: 800px;
 	background-color: #ecf0f1;
